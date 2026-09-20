@@ -37,11 +37,11 @@ LangChain Documentation
      Streamlit UI
 ```
 # Tech stack
--Python
--LangChain
--LangChain Agents
--Tavily
--Pinecone
--Hugging Face Sentence Transformers
--Groq
--Streamlit
+- Python
+- LangChain
+- LangChain Agents
+- Tavily
+- Pinecone
+- Hugging Face Sentence Transformers
+- Groq
+- Streamlit
